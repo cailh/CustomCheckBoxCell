@@ -1,7 +1,7 @@
-# CustomCheckBoxCell
+# KxCheckBoxCell
 Custom CheckBoxCell for C#[Windows Form] DataGridView
 
-# Sample Code to add a CheckBoxColumn
+# Sample Code to add a KxCheckBoxColumn
 
             dataGridView1.Columns.Add(new KxCheckBoxColumn(dataGridView1) { Name = "SELECT" });
             var list = new List<AAA>();
