@@ -15,7 +15,7 @@ Custom CheckBoxCell for C#[Windows Form] DataGridView
   <img src="https://raw.githubusercontent.com/mataprasad/CustomCheckBoxCell/master/Kx.KxCheckBoxCell.Demo/demo.png" />
 </p>      
 
-# Benefits of CheckBoxColumn
+# Benefits of KxCheckBoxColumn
 
 <ul>
     <li> You can access <b>Checked</b>[boolean] property of cell to find if the cell is checked or not, which is not available in standard <b>DataGridViewCheckBoxCell</b> . 
