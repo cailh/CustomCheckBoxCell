@@ -9,3 +9,8 @@ Custom CheckBoxCell for C#[Windows Form] DataGridView
             list.Add(new AAA() { X = "2", Y = "2" });
             list.Add(new AAA() { X = "3", Y = "3" });
             dataGridView1.DataSource = list;
+# Sample output
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mataprasad/CustomCheckBoxCell/master/Kx.KxCheckBoxCell.Demo/demo.png" />
+</p>            
